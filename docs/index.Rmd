@@ -11,7 +11,6 @@ source("../source/analysis.R")
 ```
 
 ###### **Introduction**
-
 Throughout history, the United States has a history of injustice and inequality,
 especially in the topic of racism. The structures of over-policing and the "war
 on drugs" have led to the discriminated arrests of people in color. This
@@ -23,7 +22,6 @@ states. With these variables, I also decided to focus on the incarcerations of
 both White and Black races in my data visualizations.
 
 ###### **Summary Information**
-
 Looking through the data, I found that the highest number of jailed black people
 ever recorded is **13,143.92** and the highest number of jailed white people
 ever recorded is **7036.59**. The data also shows that **California** has the
@@ -50,7 +48,6 @@ an extremely high count around the beginning years and white prison populations
 are low at the start and then gradually increases as the years progress.
 
 ###### **Variable Comparison Chart:** 
-
 ```{r compare, echo=FALSE}
 data_compare
 ```
@@ -64,7 +61,6 @@ populations while white populations in rural areas are higher than black
 populations.
 
 ###### **Map:**
-
 ```{r map, echo=FALSE}
 data_map
 ```
